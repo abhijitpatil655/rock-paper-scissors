@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: yellow;
 }
 
 h1{
@@ -9,6 +10,7 @@ h1{
     color: #fff;
     height: 5rem;
     line-height: 5rem;
+    font-weight: 900;
 }
 
 .choice{
